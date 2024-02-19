@@ -1,7 +1,4 @@
 First Git Commit.
 新增一行文字這邊
-<<<<<<< HEAD
 Tutorial commit.
-=======
 Tutorial2 commit.
->>>>>>> e127da9301e2d1bb760e6719224b8932bda0b50d
